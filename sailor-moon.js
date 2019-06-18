@@ -20,5 +20,6 @@ function magicTransformation(senshi){
 
 function sailorPower(senshi, villan){
 
+    
 }
 
