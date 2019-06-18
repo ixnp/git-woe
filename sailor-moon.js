@@ -1,24 +1,29 @@
-let sailorSenshi = ['Sailor Moon', 'Sailor Mercury', 'Sailor Mars','Sailor Juperter', 'Sailor Venus']
-let outterSenshi = ['Sailor Pluto', 'Sailor Urinus', 'Sailor Neptune', 'Sailor Saturn']
-let other = ['tuxido-mask']
-let starlightsSenshi = ['sailor-star-maker','sailor-star-fighter','sailor-star-healer']
 
-class Senshi {
-    constructor(senshiName,){
-        senshiName = this.senshiName
+let powerRanger = ['white ranger', 'red ranger', 'green ranger', 'blue ranger', 'yellow ranger']
+
+let other = ['zordon']
+class Ranger {
+    constructor(powerRanger, ) {
+        rangerName = this.rangerName
+
         humanName = this.humanName
-        kindgom = this.kindgom
+        animal = this.animal
         attack = []
-        arc
+
+
+    }
+}
+
+function gogo(ranger) {
+
+}
+
+function attack(ranger, villan) {
+
         
     }
 }
 
-function magicTransformation(senshi){
-    alert(`${kindom} MAGIC MAKEUP!`);
-}
-
-function sailorPower(senshi, villan){
 
 }
 
