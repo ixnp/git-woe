@@ -1,7 +1,7 @@
 class villan {
     constructor(){
         name = this.name
-        arch = this.arch
+        arc = this.arc
         power = this.power
     }
 }
