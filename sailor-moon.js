@@ -1,21 +1,21 @@
-let sailorSenshi = ['sailor-moon', 'sailor-mercury', 'sailor-mars','sailor-juperter', 'sailor-venus']
-let outterSenshi = ['sailor-pluto', 'sailor-urinus', 'sailor-neptune', 'sailor-saturn']
-let other = ['tuxido-mask']
-class Senshi {
-    constructor(senshiName,){
-        senshiName = this.senshiName
+let powerRanger = ['white ranger', 'red ranger', 'green ranger', 'blue ranger', 'yellow ranger']
+
+let other = ['zordon']
+class Ranger {
+    constructor(powerRanger, ) {
+        rangerName = this.rangerName
         humanName = this.humanName
-        kindgom = this.kindgom
+        animal = this.animal
         attack = []
-        
+
     }
 }
 
-function transformation(senshi){
-    
+function gogo(ranger) {
+
 }
 
-function attack(senshi, villan){
+function attack(ranger, villan) {
 
 }
 
